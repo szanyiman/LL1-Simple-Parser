@@ -1,0 +1,20 @@
+Szabályok a program demonstrálására a rules tömbbe bemásolni őket:
+
+S->aS
+S->bAc
+A->bAc
+A->d
+
+S->aAc
+S->b
+A->aSc
+A->b
+
+S->aS
+S->B
+B->bBc
+B->C
+C->dCe
+C->D
+D->fDg
+D->h

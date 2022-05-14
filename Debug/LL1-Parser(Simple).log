@@ -1,0 +1,14 @@
+﻿  LL1-Parser(Simple).cpp
+C:\Users\Manó\source\repos\LL1-Parser(Simple)\LL1-Parser(Simple)\LL1-Parser(Simple).cpp(27,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Manó\source\repos\LL1-Parser(Simple)\LL1-Parser(Simple)\LL1-Parser(Simple).cpp(33,33): warning C4267: 'initializing': conversion from 'size_t' to 'char', possible loss of data
+C:\Users\Manó\source\repos\LL1-Parser(Simple)\LL1-Parser(Simple)\LL1-Parser(Simple).cpp(55,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Manó\source\repos\LL1-Parser(Simple)\LL1-Parser(Simple)\LL1-Parser(Simple).cpp(73,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Manó\source\repos\LL1-Parser(Simple)\LL1-Parser(Simple)\LL1-Parser(Simple).cpp(77,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Manó\source\repos\LL1-Parser(Simple)\LL1-Parser(Simple)\LL1-Parser(Simple).cpp(84,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Manó\source\repos\LL1-Parser(Simple)\LL1-Parser(Simple)\LL1-Parser(Simple).cpp(123,19): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Manó\source\repos\LL1-Parser(Simple)\LL1-Parser(Simple)\LL1-Parser(Simple).cpp(125,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Manó\source\repos\LL1-Parser(Simple)\LL1-Parser(Simple)\LL1-Parser(Simple).cpp(131,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Manó\source\repos\LL1-Parser(Simple)\LL1-Parser(Simple)\LL1-Parser(Simple).cpp(157,19): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Manó\source\repos\LL1-Parser(Simple)\LL1-Parser(Simple)\LL1-Parser(Simple).cpp(159,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Manó\source\repos\LL1-Parser(Simple)\LL1-Parser(Simple)\LL1-Parser(Simple).cpp(165,23): warning C4018: '<': signed/unsigned mismatch
+  LL1-Parser(Simple).vcxproj -> C:\Users\Manó\source\repos\LL1-Parser(Simple)\Debug\LL1-Parser(Simple).exe
